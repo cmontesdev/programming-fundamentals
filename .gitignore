@@ -1,0 +1,9 @@
+//jpg files
+*.jpg
+
+//png files
+*.png
+
+//latex
+*.tex
+
